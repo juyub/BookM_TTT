@@ -4,7 +4,7 @@
 - ERD <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/81e33f9a-b9c8-4b6b-9682-e268e5b5011f" width="400" /> <br>
 - Workflow <br>
-<img src="https://github.com/juyub/BookM_TTT/assets/126839881/3164f7c5-2e28-43e3-909c-9acd17b155c4" width="400" /> <br>
+<img src="https://github.com/juyub/BookM_TTT/assets/126839881/3164f7c5-2e28-43e3-909c-9acd17b155c4" width="500" /> <br>
 - 기능 상세 <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/a40a4036-05db-4e3f-9f55-61b2c927768c" width="400" /> <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/5f01518b-bdc0-4a19-b41c-b9fc0a7170d3" width="400" /> <br>
