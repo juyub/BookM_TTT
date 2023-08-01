@@ -1,7 +1,7 @@
 
 # [Java] 도서관리 프로그램
 
-<img src="https://github.com/juyub/BookM_TTT/assets/126839881/0563ffe8-6d65-4956-a9c5-ed8988fccf5f" width="500" /> <br>
+<img src="https://github.com/juyub/BookM_TTT/assets/126839881/0563ffe8-6d65-4956-a9c5-ed8988fccf5f"  /> <br>
 - 구성 및 Workflow <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/73bc7bfa-17e0-45a1-bad1-e05649500a5d" width="500" /> <br>
 - ERD <br>
