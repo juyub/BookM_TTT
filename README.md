@@ -10,7 +10,9 @@
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/a40a4036-05db-4e3f-9f55-61b2c927768c" width="400" /> <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/5f01518b-bdc0-4a19-b41c-b9fc0a7170d3" width="400" /> <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/8b0df5c9-7755-409e-9b63-0e69dbfbeab6" width="400" /> <br>
-
+- 보완점 <br>
+현재 개발 구성이 관리자에 의한 도서, 회원 관리이지만, <br>
+이용 고객들도 이용할 수 있도록 로그인 기능 구현 필요
 <!--
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/8370b79b-21c8-4cb7-add8-594e48696f26" width="400" /> <br>
 <img src="https://github.com/juyub/BookM_TTT/assets/126839881/6992d267-90be-439f-8518-4bbb314e321d" width="400" /> <br>
